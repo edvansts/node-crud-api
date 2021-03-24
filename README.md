@@ -68,8 +68,8 @@ Below, the API routes implemented to date will be listed👇
       {
         "user": {
           "_id": "605b9ae00942275c991eb815",
-          "email": "edvan.stt02@gmail.com",
-          "name": "Edvan",
+          "email": "example@gmail.com",
+          "name": "Edvan Matos",
           "createAt": "2021-03-24T20:02:40.520Z",
         }
       }
