@@ -15,7 +15,7 @@ First, install the dependencies using the terminal by typing `npm install`
 
 Now just run `npm run dev`, and that's it, the application will already be running on your machine in http://localhost:3000.
 
-*To test the routes, I recommend [Insomnia](https://insomnia.rest/), currently my favorite API Client, another option to use is [Postman](https://www.postman.com/), if you prefer.*
+*To test the routes, I recommend [Insomnia](https://insomnia.rest/), currently my favorite API Client tool, another option to use is [Postman](https://www.postman.com/), if you prefer.*
 
 Below, the API routes implemented to date will be listed👇
 
