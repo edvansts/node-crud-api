@@ -22,7 +22,7 @@ Below, the API routes implemented to date will be listed👇
 ## Routes 🌲
 
 - ### **/auth**
-  - POST **/register**: Here you can register users;
+  - POST **/register** : Here you can register users;
   
     ```json
     //Request body example
@@ -32,7 +32,7 @@ Below, the API routes implemented to date will be listed👇
          "name":"Edvan Matos"
        }
     ```
-  - POST **/authenticate**: Here you can authenticate a user;
+  - POST **/authenticate** : Here you can authenticate a user;
 
     ```json
     //Request body example
@@ -42,7 +42,7 @@ Below, the API routes implemented to date will be listed👇
          "name":"Edvan Matos"
        }
     ```
-  - POST **/forgot-password**: Here you can generate a token for reset password;
+  - POST **/forgot-password** : Here you can generate a token for reset password;
 
     ```json
     //Request body example
@@ -50,7 +50,7 @@ Below, the API routes implemented to date will be listed👇
          "email": "example@gmail.com",
        }
     ```
-  - POST **/reset-password**: Here you can reset a user password;
+  - POST **/reset-password** : Here you can reset a user password;
 
     ```json
     //Request body example
@@ -61,7 +61,7 @@ Below, the API routes implemented to date will be listed👇
       }
     ```
 - ### **/projects**
-  - GET **/**: Here you can get a user sending an authorization token via cookies header;
+  - GET **/** : Here you can get a user sending an authorization token via cookies header;
 
      ```json
      //Request response example
