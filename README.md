@@ -61,7 +61,7 @@ Below, the API routes implemented to date will be listed👇
       }
     ```
 - ### **/projects**
-  - GET **/reset-password**: Here you can get a user sending an authorization token via cookies header;
+  - GET **/**: Here you can get a user sending an authorization token via cookies header;
 
      ```json
      //Request response example
